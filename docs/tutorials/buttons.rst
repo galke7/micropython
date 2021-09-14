@@ -1,5 +1,9 @@
-Buttons
+Buttons - כפתורים
 -------
+
+עד עכשיו יצרנו קוד שגורם למכשיר לעשות משהו. זה נקרא 
+*פלט* - *output*. אבל אנחנו גם צריכים שהמכשיר יגיב לדברים. דברים כאלה
+נקראים *קלט* - *inputs*
 
 So far we have created code that makes the device do something. This is called
 *output*. However, we also need the device to react to things. Such things are
